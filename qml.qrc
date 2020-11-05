@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>surs/fonts/Montserrat-SemiBold.ttf</file>
+        <file>surs/fonts/Montserrat-Bold.ttf</file>
+        <file>surs/fonts/alarm clock.ttf</file>
+        <file>surs/fonts/DS-DIGI.TTF</file>
+        <file>VideoMy.qml</file>
+        <file>surs/elements/slider.svg</file>
+        <file>surs/elements/line-4.svg</file>
+        <file>surs/elements/line-3.svg</file>
+        <file>surs/elements/line-2.svg</file>
+        <file>surs/elements/line-1.svg</file>
+        <file>surs/elements/en_button.svg</file>
+        <file>surs/elements/3.svg</file>
+        <file>surs/elements/2.svg</file>
+        <file>surs/elements/1.svg</file>
+        <file>Faq.qml</file>
+        <file>History.qml</file>
+        <file>StartMenu.qml</file>
+        <file>CounterGas.qml</file>
+        <file>surs/elements/button-play.svg</file>
+        <file>EnButton.qml</file>
+        <file>surs/elements/button-stop.svg</file>
+        <file>surs/elements/button-pause.svg</file>
+        <file>surs/elements/button-play-video.svg</file>
+        <file>BackButton.qml</file>
+        <file>surs/elements/button-back-white.svg</file>
+        <file>surs/elements/slider-long.svg</file>
+        <file>surs/elements/button_right.svg</file>
+        <file>surs/elements/button_left.svg</file>
+        <file>CaruselPhotos.qml</file>
+        <file>surs/elements/button-down.svg</file>
+        <file>surs/elements/button-back-black.svg</file>
+        <file>surs/elements/button-plus.svg</file>
+        <file>surs/elements/button-up.svg</file>
+    </qresource>
+</RCC>
